@@ -1,0 +1,11 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.galaxy{
+    width: 100%;
+    background-image: url(..//image/BfemybeKVXCf9pgX9WCxsc-970-80.jpg.webp);
+    background-position: center;
+    background-size: cover;
+}
